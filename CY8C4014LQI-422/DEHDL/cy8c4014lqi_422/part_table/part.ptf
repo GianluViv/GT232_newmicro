@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CY8C4014LQI_422'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "CY8C4014LQI-422" (!) = "", "QFN50P400X400X60-25N-D", "Quad Flat No-Lead", "727-CY8C4014LQI-422", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/CY8C4014LQI-422?qs=h2odU9YHRxwBFdYZzj5f5w%3D%3D", "CY8C4014LQI-422", "https://www.arrow.com/en/products/cy8c4014lqi-422/cypress-semiconductor", "MCU 32-bit ARM Cortex M0 RISC 16KB Flash 2.5V/3.3V/5V 24-Pin QFN EP Tray", "https://www.cypress.com/file/138646/download", "0.6 mm"
+END_PART
+
+END.

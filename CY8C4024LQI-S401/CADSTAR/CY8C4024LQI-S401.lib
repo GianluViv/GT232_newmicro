@@ -1,0 +1,16 @@
+.CY8C4024LQI-S401 :1 ;32-bit Microcontrollers - MCU PSoC4
+QFN50P400X400X60-25N-D
+*STM IC
+*NGS
+*PLB 1="P1.7" 2="P2.0" 3="P2.1" 4="P2.6" 5="P2.7" 6="P3.0" 7="P3.2" 8="P3.3" 9="P4.0" 10="P4.1" 11="P4.2" 12="P4.3" 13="P0.0" 14="P0.1" 15="P0.4" 16="P0.5" 17="P0.6" 18="XRES" 19="VCCD" 20="VSSD" 21="VDD" 22="VSSA" 23="P1.2" 24="P1.3" 25="EP"
+*MXP 25
+*DFN CY8C4024LQI-S401
+~!Mouser Part Number (727-CY8C4024LQI-S401)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/CY8C4024LQI-S401?qs=JseWDPAoSPbM3yjOOH99ZQ%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (CY8C4024LQI-S401)
+~!Link Datasheet (https://www.infineon.com/assets/row/public/documents/30/49/infineon-psoc-4000s-datasheet-datasheet-en.pdf)
+~!Height (0.6mm)
+~!3D_Model (CY8C4024LQI-S401)
+CY8C4024LQI-S401
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

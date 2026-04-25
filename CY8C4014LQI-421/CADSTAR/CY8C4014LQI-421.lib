@@ -1,0 +1,18 @@
+.CY8C4014LQI-421 :1 ;Cypress Semiconductor CY8C4014LQI-421, 32bit Microcontroller, CY8C4014, 16MHz, 16 kB Flash, 16-Pin QFN
+QFN50P300X300X60-17N-D
+*STM IC
+*NGS
+*PLB 1="P0.1" 2="P0.2" 3="P0.4" 4="VCCD" 5="VDDIO" 6="VDD" 7="VSS" 8="P0.6" 9="P1.1" 10="P1.2" 11="P1.3" 12="P1.6" 13="P1.7" 14="P3.0" 15="P3.1" 16="P3.2" 17="EP"
+*MXP 17
+*DFN CY8C4014LQI-421
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (CY8C4014LQI-421)
+~!Mouser Part Number (727-CY8C4014LQI-421)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY8C4014LQI-421?qs=h2odU9YHRxyINW4X3fOvRg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/1783282)
+~!Height (0.6mm)
+~!3D_Model (CY8C4014LQI-421)
+CY8C4014LQI-421
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

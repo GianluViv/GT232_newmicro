@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C4014LQI-422
+D MCU 32-bit ARM Cortex M0 RISC 16KB Flash 2.5V/3.3V/5V 24-Pin QFN EP Tray
+K
+F https://www.cypress.com/file/138646/download
+$ENDCMP
+#
+#End Doc Library

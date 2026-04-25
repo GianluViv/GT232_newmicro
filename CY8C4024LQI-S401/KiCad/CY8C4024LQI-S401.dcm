@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C4024LQI-S401
+D 32-bit Microcontrollers - MCU PSoC4
+K
+F https://www.infineon.com/assets/row/public/documents/30/49/infineon-psoc-4000s-datasheet-datasheet-en.pdf
+$ENDCMP
+#
+#End Doc Library
