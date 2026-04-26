@@ -1,9 +1,0 @@
-Manufacturer=Infineon
-PartNumber=CY8C4014LQI-422
-PartCategory=Integrated Circuit
-PackageCategory=Quad Flat No-Lead
-PinCount=25
-Version=1.1
-Released=2021-06-07 12:40:35
-Downloaded=2026-04-25 16:05:42
-3D=Y

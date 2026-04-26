@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "CY8C4014SXA") (type "KiCad") (uri "${KIPRJMOD}/CY8C4014SXA.kicad_sym") (options "") (descr ""))
-)
